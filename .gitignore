@@ -1,0 +1,3 @@
+build/            #this will ignore all build files
+
+*.txt     //this will ignore all txt file and it won't store this files on github repository
